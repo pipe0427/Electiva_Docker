@@ -1,0 +1,4 @@
+Nombre:Carlos
+Apellido:Franco Tamayo
+RH:o+
+FechaDeNacimiento:05/06/2019

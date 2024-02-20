@@ -1,0 +1,4 @@
+Nombre:Paola 
+Apellido: Tamayo Tapias
+RH:O+
+FehcaDeNacimiento:27/01/1985

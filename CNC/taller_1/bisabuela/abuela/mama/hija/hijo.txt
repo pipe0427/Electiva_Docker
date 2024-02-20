@@ -1,0 +1,4 @@
+Nombre:Juan Felipe
+Apellido: Franco Tamayo
+RH:O+
+FechaDeNacimiento:27/04/2004

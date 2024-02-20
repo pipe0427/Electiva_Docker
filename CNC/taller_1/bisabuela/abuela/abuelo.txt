@@ -1,0 +1,6 @@
+Nombre:Jorge Ignacio
+Apellido:Franco Londoño
+RH:O+
+fechaDeNacimiento:09/06/1952
+
+

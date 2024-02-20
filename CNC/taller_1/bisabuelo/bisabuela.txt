@@ -1,0 +1,4 @@
+Nombre:Mariela 
+Apellido:Sanchez
+RH:o+
+FechaDeNacimiento:26/01/1925

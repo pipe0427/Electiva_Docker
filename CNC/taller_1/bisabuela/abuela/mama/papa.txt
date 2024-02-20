@@ -1,0 +1,4 @@
+Nombre: Jorge Andres
+Apellido: Franco Londoño
+RH:O+
+FechaDeNacimiento:14/02/1986
